@@ -1,13 +1,13 @@
-# RNASeq Analysis Pipeline 🧬  
+# Denovo Assembly_TRINITY Analysis Pipeline 🧬  
 This repository contains a reproducible RNASeq analysis pipeline using Python, R, and Bash. It includes transcriptome assembly, differential gene expression analysis, and visualization.
 
 ## 📌Features  
 ✅ Preprocessing (Quality Control & Trimming)  
-✅ Alignment & Transcript Assembly  
-✅ Differential Gene Expression Analysis  
-✅ Visualization with ggplot2 & Seaborn  
+✅ Transcript Assembly  
+✅   
+✅  
 ## 📂 Repository Structure 
-RNASeq-Analysis-Pipeline/ 
+Denovo Assembly_TRINITY-Analysis-Pipeline/ 
 │── data/ # Sample datasets (if permissible) 
 │── scripts/ # Python, R, and Bash scripts 
 │── notebooks/ # Jupyter notebooks for analysis 
